@@ -1,45 +1,62 @@
-Hi there, I'm Fregene Bernard! 👋
-Welcome to my GitHub profile. I'm a passionate Python Developer with expertise in building web applications using Flask and Django, as well as creating desktop applications. I specialize in working with various databases, including SQLite, MySQL, and MongoDB, to develop scalable, efficient, and reliable applications.
+# Hi there, I'm Fregene Bernard! 👋
 
-🧑‍💻 Technologies & Tools
-Web Development:
+Welcome to my GitHub profile! I'm a passionate **Python Developer** with expertise in **Flask**, **Django**, and **Desktop Application Development**. I specialize in building web and desktop applications, working with multiple databases, and leveraging Python's powerful ecosystem to create efficient and scalable solutions.
 
-Flask
-Django
-HTML, CSS, JavaScript
-RESTful APIs
-SQLAlchemy (ORM)
-PostgreSQL, SQLite, MySQL, MongoDB
-Desktop Application Development:
+## 🧑‍💻 Technologies & Tools
 
-PyQt5, Tkinter
-PyInstaller (for packaging applications)
-SQLite, SQLAlchemy for local databases
-Databases:
+### **Web Development**:
+- `Flask`, `Django`
+- `HTML`, `CSS`, `JavaScript`
+- RESTful APIs
+- `SQLAlchemy` (ORM)
 
-SQLAlchemy: ORM for seamless database interaction in Python applications.
-SQLite: Lightweight database for simple, local data storage.
-MySQL: Scalable and efficient relational database management system.
-MongoDB: NoSQL database for handling unstructured data.
-Version Control:
+### **Databases**:
+- **Relational**:
+  - `SQLite`, `MySQL`
+- **NoSQL**:
+  - `MongoDB`
+  
+### **Desktop Application Development**:
+- `PyQt5`, `Tkinter`
+- `PyInstaller` (for packaging applications)
 
-Git, GitHub
-Other Tools:
+### **Version Control**:
+- `Git`, `GitHub`
 
-Docker
-CI/CD (GitHub Actions, Travis CI)
-💻 Projects
+### **Other Tools**:
+- Docker
+- CI/CD (GitHub Actions, Travis CI)
+
+## 💻 Projects
+
 Here are a few of the types of projects I work on:
 
-Flask/Django Web Apps: I have experience developing scalable, secure, and performant web apps with Flask and Django, including API integration, authentication, and real-time features.
-Database Management: I work with various databases, including SQL (SQLite, MySQL) and NoSQL (MongoDB), to design and implement efficient data storage solutions for both web and desktop applications.
-Desktop Apps: I build desktop applications using PyQt5 or Tkinter, often focusing on creating intuitive user interfaces and smooth functionality.
-Open Source Contributions: I actively contribute to open-source projects. Feel free to check out my contributions to various repositories.
-🌱 What I'm Currently Learning
-Advanced Flask/Django techniques for large-scale applications
-Cloud deployment (AWS, Heroku)
-Front-end frameworks like React and Vue.js to complement my web development skills
-In-depth database optimization techniques with MySQL and MongoDB
-🚀 How to Reach Me
-📧 Email: [fregenevwegba@gmail.com]
-Feel free to check out my repositories, give me a star if you like something, and don't hesitate to open an issue or submit a pull request if you have any suggestions or contributions!
+- **Flask/Django Web Apps**:  
+  I develop scalable, secure, and performant web applications with Flask and Django, including:
+  - RESTful API development
+  - User authentication
+  - Real-time features (e.g., WebSockets)
+
+- **Database Management**:  
+  I design and implement efficient data storage solutions for both web and desktop applications, using:
+  - **SQLAlchemy** for ORM-based interactions with databases like SQLite and MySQL
+  - **MongoDB** for flexible, unstructured data handling
+  
+- **Desktop Applications**:  
+  I create desktop applications using `PyQt5` or `Tkinter` and package them with `PyInstaller` for easy distribution.
+
+- **Open Source Contributions**:  
+  I contribute to various open-source projects. Feel free to check out my contributions!
+
+## 🌱 What I'm Currently Learning
+
+- Advanced techniques for building large-scale applications with **Flask** and **Django**
+- Cloud deployment platforms (e.g., **AWS**, **Heroku**)
+- Front-end frameworks like **React** and **Vue.js** to complement my web development stack
+- In-depth database optimization techniques with **MySQL** and **MongoDB**
+
+## 🚀 How to Reach Me
+
+- 📧 **Email**: fregenevwegba@gmail.com
+
+Feel free to explore my repositories, give a star if you like something, and don't hesitate to open an issue or submit a pull request if you have any suggestions or contributions!
